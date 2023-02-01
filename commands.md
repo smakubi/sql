@@ -1,6 +1,6 @@
-CREDIT: These commands and original exercise have been adopted from: SQLzoo.net (https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial)
+**CREDIT**: These commands and original exercise have been adopted from: SQLzoo.net **(https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial)**
 
-# First SOME SQL BUILT IN FUNCTIONS
+# First some builtin SQL functions 
 
 ## XOR
 Exclusive OR (XOR). Show the countries that are big by area (more than 3 million) or big by population (more than 250 million) but not both. Show name, population and area.Australia has a big area but a small population, it should be included.
