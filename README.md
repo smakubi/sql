@@ -1,3 +1,3 @@
 #SQL
 
-This is a file of interesting SQL commands. 
+This is a repo of interesting SQL commands. 
